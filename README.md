@@ -3,11 +3,19 @@
 It is very likely that this config.plist will not work out of the box. Several manual BIOS modifications were made using setup_var.efi, which include DVMT pre-alloc patching, CFG Lock and others.
 
 Hardware:
+#
 CPU: Intel Core i3-10105
+#
 GPU: RX 460 2G
+#
 RAM: 8 GB
+#
 Storage [1]: Western Digital SN570 500 GB SSD
+#
 Storage [2]: Seagate Barracuda 1TB HDD
+#
 WLAN: Intel Wi-FI 6 AX201
+#
 Ethernet: Realtek RTL8168/8111 GBe Adapter
+#
 Audio Codec: Find it yourself
