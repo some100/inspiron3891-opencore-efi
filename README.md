@@ -6,7 +6,7 @@ Hardware:
 #
 CPU: Intel Core i3-10105
 #
-GPU: RX 460 2G
+GPU: HP RX 550 2G
 #
 RAM: 8 GB
 #
